@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 4rem;
+  margin: 0;
+}
+
+.MuiButtonGroup-root {
+  margin-top: 20px;
+}
